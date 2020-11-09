@@ -4,7 +4,7 @@
 
 [![wern.dev](https://img.shields.io/static/v1?label=Website&message=%20&logo=Ruby&style=flat-square&logoColor=white)](https://wern.dev)
 [![vk](https://img.shields.io/static/v1?label=Vk&message=%20&logo=Vk&style=flat-square&logoColor=red)](https://vk.com/wern_rm)
-[![Discord](https://img.shields.io/static/v1?label=Discord:WeRn2889&message=%20&logo=Discord&style=flat-square&logoColor=blue)](https://twitter.com)
+[![Discord](https://img.shields.io/static/v1?label=Discord:WeRn2889&message=%20&logo=Discord&style=flat-square&logoColor=blue)](https://discord.com)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&logo=Telegram&style=flat-square&logoColor=blue)](https://t.me/roman_morozov)
 
 
