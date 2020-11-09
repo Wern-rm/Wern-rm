@@ -10,6 +10,6 @@
 
 I am a Back-end Developer, I also like to develop games
 
-- ⚙️ Stack: Python, Java, JavaScript, С#, SQL, No-SQL, Nginx 
+- ⚙️ Stack: Python, Java, С#, SQL, No-SQL, Nginx 
 - 🏢 I'm currently working on some **Aion Project**
-- 🌱 I'm currently learning about Go, Node.js, Angular.js, Native.js
+- 🌱 I'm currently learning about Go, Node.js, Angular.js
