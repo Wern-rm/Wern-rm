@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wern-rm&show_icons=true"> 
 
-## Hi there I'm Roman Morozov
+## Hi there I'm Roman Morozov or just WeRn!
 
 [![wern.dev](https://img.shields.io/static/v1?label=Website&message=%20&logo=Ruby&style=flat-square&logoColor=white)](https://wern.dev)
 [![vk](https://img.shields.io/static/v1?label=Vk&message=%20&logo=Vk&style=flat-square&logoColor=red)](https://vk.com/wern_rm)
@@ -11,5 +11,6 @@
 I am a Back-end Developer, I also like to develop games
 
 - ⚙️ Stack: Python, Java, С#, SQL, No-SQL, Nginx 
+- 💚 Developing the Aion development team: Lightning-Digital
 - 🏢 I'm currently working on some **Aion Project**
 - 🌱 I'm currently learning about Go, Node.js, Angular.js
