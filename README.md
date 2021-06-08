@@ -10,7 +10,4 @@
 
 I am a Back-end Developer, I also like to develop games
 
-- ⚙️ Stack: Python, Java, С#, SQL, No-SQL, Nginx 
-- 💚 Developing the Aion development team: Lightning-Digital
-- 🏢 I'm currently working on some **Aion Project**
-- 🌱 I'm currently learning about Go, Node.js, Angular.js
+- ⚙️ Stack: Python, Java, С#, SQL, No-SQL
