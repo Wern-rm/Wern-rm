@@ -1,3 +1,5 @@
+![](./src/header_.png)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wern-rm&show_icons=true"> 
 
 ## Hi there I'm Roman Morozov or just WeRn!
