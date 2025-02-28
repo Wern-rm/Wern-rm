@@ -9,7 +9,4 @@
 
 I am a Back-end Developer, I also like to develop games
 
-- ⚙️ Stack: Python, Java, SQL, No-SQL
-
-<img src="https://komarev.com/ghpvc/?username=Wern-rm&color=blueviolet&style=flat-square">
-
+⚙️ Stack: Python, Java, SQL, No-SQL
